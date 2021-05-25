@@ -1,6 +1,6 @@
-# PantherSwap Factory
+# PyroSwap Factory
 
-In-depth documentation on PancakeSwap is available at [docs.pantherswap.com](https://docs.pantherswap.com/).
+In-depth documentation on PyroSwap is available at [docs.pyroswap.com](https://docs.pyroswap.com/).
 
 # Local Development
 
